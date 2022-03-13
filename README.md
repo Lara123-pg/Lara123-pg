@@ -1,7 +1,7 @@
 ## Olá devs 👋, meu nome é Lara Fernanda 
 
 
-- 👩‍💻 Hoje estudo para alcançar minha primeira vaga como dev front end.
+- 👩‍💻 Hoje estudo para conseguir minha primeira vaga como dev front end.
 - 📚 Altualmente estou estudando JavaScript
 
 <div align="center">
