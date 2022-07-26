@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Hoje estudo para conseguir minha primeira vaga como dev front end.
-- 📚 Altualmente estou estudando JavaScript.
+- 📚 Atualmente estou estudando JavaScript.
 
 <div align="center">
   <a href="https://github.com/Lara123-pg">
