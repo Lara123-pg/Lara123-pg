@@ -1,8 +1,7 @@
 ## Olá devs 👋, meu nome é Lara Fernanda 
 
 
-- 👩‍💻 Hoje estudo para conseguir minha primeira vaga como dev front end.
-- 📚 Atualmente estou estudando TypeScript.
+- 👩‍💻 Estudante de Ciência da Computação - UFAL
 
 <div align="center">
   <a href="https://github.com/Lara123-pg">
